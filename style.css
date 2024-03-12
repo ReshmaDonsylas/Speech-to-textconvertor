@@ -10,7 +10,13 @@ body {
     align-items: center;
     min-height: 100vh;
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(to right, #e08ef0, #29323c);
+    background: linear-gradient(to right, #d691e4, #29323c);
+    background-image: cross-fade(center);
+    background-size:cover;
+    background-position: center;
+     background-repeat: no-repeat;
+      margin: 0; 
+      padding: 0;
 }
 
 h2 {
